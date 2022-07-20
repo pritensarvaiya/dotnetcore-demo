@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2i+vVnUQGMCnw1HDcpCI89go5HPAyuF7AlO27GFBoj4TD/A1Z+f6WW//+eeeQJdbS+u7h6V48dg/18indh7Thg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\INFINITY\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\INFINITY\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
